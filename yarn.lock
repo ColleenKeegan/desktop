@@ -689,7 +689,7 @@ acorn-globals@^4.1.0:
 
 acorn-jsx@^3.0.0:
   version "3.0.1"
-  resolved "http://registry.npmjs.org/acorn-jsx/-/acorn-jsx-3.0.1.tgz#afdf9488fb1ecefc8348f6fb22f464e32a58b36b"
+  resolved "https://registry.npmjs.org/acorn-jsx/-/acorn-jsx-3.0.1.tgz#afdf9488fb1ecefc8348f6fb22f464e32a58b36b"
   integrity sha1-r9+UiPsezvyDSPb7IvRk4ypYs2s=
   dependencies:
     acorn "^3.0.4"
@@ -703,7 +703,7 @@ acorn-jsx@^4.1.1:
 
 acorn@^3.0.4:
   version "3.3.0"
-  resolved "http://registry.npmjs.org/acorn/-/acorn-3.3.0.tgz#45e37fb39e8da3f25baee3ff5369e2bb5f22017a"
+  resolved "https://registry.npmjs.org/acorn/-/acorn-3.3.0.tgz#45e37fb39e8da3f25baee3ff5369e2bb5f22017a"
   integrity sha1-ReN/s56No/JbruP/U2niu18iAXo=
 
 acorn@^5.0.0:
@@ -3887,7 +3887,7 @@ eslint-visitor-keys@^1.0.0:
 
 eslint@4.19.1:
   version "4.19.1"
-  resolved "http://registry.npmjs.org/eslint/-/eslint-4.19.1.tgz#32d1d653e1d90408854bfb296f076ec7e186a300"
+  resolved "https://registry.npmjs.org/eslint/-/eslint-4.19.1.tgz#32d1d653e1d90408854bfb296f076ec7e186a300"
   integrity sha512-bT3/1x1EbZB7phzYu7vCr1v3ONuzDtX8WjuM9c0iYxe+cq+pwcKEoQjl7zd3RpC6YOLgnSy3cTN58M2jcoPDIQ==
   dependencies:
     ajv "^5.3.0"
@@ -6882,9 +6882,9 @@ lodash.memoize@^4.1.2:
   integrity sha1-vMbEmkKihA7Zl/Mj6tpezRguC/4=
 
 lodash.mergewith@^4.6.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/lodash.mergewith/-/lodash.mergewith-4.6.0.tgz#150cf0a16791f5903b8891eab154609274bdea55"
-  integrity sha1-FQzwoWeR9ZA7iJHqsVRgknS96lU=
+  version "4.6.2"
+  resolved "https://registry.yarnpkg.com/lodash.mergewith/-/lodash.mergewith-4.6.2.tgz#617121f89ac55f59047c7aec1ccd6654c6590f55"
+  integrity sha512-GK3g5RPZWTRSeLSpgP8Xhra+pnjBC56q9FZYe1d5RN3TJ35dbkGy3YqBSMbyCrlbi+CM9Z3Jk5yTL7RCsqboyQ==
 
 lodash.some@^4.6.0:
   version "4.6.0"
@@ -11343,7 +11343,7 @@ whatwg-encoding@^1.0.1, whatwg-encoding@^1.0.3:
 
 whatwg-fetch@^0.11.1:
   version "0.11.1"
-  resolved "http://registry.npmjs.org/whatwg-fetch/-/whatwg-fetch-0.11.1.tgz#6d3ded245fdd97cd728e0e2587b54b733949e663"
+  resolved "https://registry.npmjs.org/whatwg-fetch/-/whatwg-fetch-0.11.1.tgz#6d3ded245fdd97cd728e0e2587b54b733949e663"
   integrity sha1-bT3tJF/dl81yjg4lh7VLczlJ5mM=
 
 whatwg-mimetype@^2.1.0:
